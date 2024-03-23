@@ -1,3 +1,7 @@
+gpiod_4lines
+gpiod_bulk
+
+
 # Prerequisites
 *.d
 
